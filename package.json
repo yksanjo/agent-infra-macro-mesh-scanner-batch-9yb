@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-macro-mesh-scanner-batch-9yb",
+  "version": "1.0.0",
+  "description": "Enterprise-grade service layer",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "macro-mesh-scanner-batch-9yb"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-macro-mesh-scanner-batch-9yb.git"
+  }
+}
